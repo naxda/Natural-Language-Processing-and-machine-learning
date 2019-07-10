@@ -21,3 +21,6 @@ Word2Vec하기전에
 한글 형태소분석기
 https://konlpy-ko.readthedocs.io/ko/v0.4.3/
 예제는 형태소분석 되어있는상태임
+
+wikipedia dump 구글에 검색하면
+위키백과 데이터를 얻을 수 있음
