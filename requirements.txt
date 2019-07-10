@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+konlpy
+jpype1
+seqeval
+tqdm
+gensim
