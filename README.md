@@ -7,8 +7,10 @@ http://bit.ly/hynix7010
 
 ## jupyter깔기
 conda create SK_Week3 python=3.7
-source activate SK_Week3
-conda install jupyter
+
+source activate SK_Week3;
+
+conda install jupyter;
 
 ## hynix_ner
 ## 폴더 찾아들어가서
