@@ -1,3 +1,8 @@
+###Word2Vec_Word Embedding:단어의뜻을 벡터로 표현
+###NER(Named Entity Recognition):개체명 인식
+###SPL(Semantic Role Labeling):의미역인식
+
+
 # 19.07.10
 Natural Language Processing and Machine Learning
 
@@ -24,3 +29,5 @@ https://konlpy-ko.readthedocs.io/ko/v0.4.3/
 
 wikipedia dump 구글에 검색하면
 위키백과 데이터를 얻을 수 있음
+
+
