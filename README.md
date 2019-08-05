@@ -1,6 +1,6 @@
-###Word2Vec_Word Embedding:단어의뜻을 벡터로 표현
-###NER(Named Entity Recognition):개체명 인식
-###SPL(Semantic Role Labeling):의미역인식
+### Word2Vec_Word Embedding:단어의뜻을 벡터로 표현
+### NER(Named Entity Recognition):개체명 인식
+### SPL(Semantic Role Labeling):의미역인식
 
 
 # 19.07.10
